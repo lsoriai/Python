@@ -1,0 +1,10 @@
+
+<config>
+    <account username="Client1@urjc.es" passwd="Leyre1"/>
+    <uaserver ip="" puerto="1234"/>
+    <rtpaudio puerto="2020"/>
+    <regproxy ip="127.0.0.1" puerto="4587"/>
+    <log path="logClient1.txt"/>
+    <audio path="cancion.mp3"/>
+</config>
+
