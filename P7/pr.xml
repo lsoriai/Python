@@ -1,0 +1,5 @@
+<config>
+	<server name="MiServidorGuay" ip="" puerto="4587"/>
+	<database path="usuarios.txt" passwpath="passwords.txt"/>
+	<log path="logServer.txt"/>
+</config>
