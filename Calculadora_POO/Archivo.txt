@@ -1,0 +1,4 @@
+suma,1,2,3,4,5
+resta,4,3,1
+multiplica,1,2,3,4,5
+divide,1,2,2
